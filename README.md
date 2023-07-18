@@ -64,6 +64,6 @@
 
 [Код запроса sql.docx](https://github.com/KEkatVi/My-portfolio/files/12076603/sql.docx)
 
-  Контактная информация
+  **Контактная информация**
 <p> ✔Электронная почта: ekvi26@yandex.ru
 <p> ✔Telegram: ekater1na_kv
